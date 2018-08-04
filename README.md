@@ -1,11 +1,6 @@
-# tim_grk简介（markdown语法）
-**个人简介**
+# tim_grk简介
+*github地址:*|[https://timGRk.github.io](https://timGRk.github.io)
 
-个人简介|内容
-------|-----
- *邮箱*：| ****
-**github地址**:|[https://github.com/timGRK](https://github.com/timGRK)
-*地址*：|深圳市南山区
 专业技能：
 
 * 互联网技术爱好者,游走于stackoverflow/github/slideshare/infoq等技术社区；
