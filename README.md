@@ -1,3 +1,5 @@
+*互联网技术开源爱好者,专注于java高并发以及分布式云原生微服务架构设计。具有多年电信行业与第三方支付系统研发经验*
+
 *github地址:*[https://timGRk.github.io](https://timGRk.github.io)
 
 专业技能：
