@@ -1,5 +1,5 @@
 # tim_grk简介
-*github地址:*|[https://timGRk.github.io](https://timGRk.github.io)
+*github地址:*[https://timGRk.github.io](https://timGRk.github.io)
 
 专业技能：
 
