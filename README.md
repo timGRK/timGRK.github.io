@@ -1,7 +1,5 @@
 *互联网技术开源爱好者,专注于java高并发以及分布式云原生微服务架构设计。具有多年电信行业与第三方支付系统研发经验*
 
-*github地址:*[https://timGRk.github.io](https://timGRk.github.io)
-
 专业技能：
 * 互联网技术爱好者,游走于stackoverflow/github/slideshare/infoq等技术社区；
 * 擅长j2ee技术体系（spring/springmvc/struts1-2/resteasy/dubbox/guava/jquery/netty/redis/druid/mongodb/hadoop/rocketmq/kafka/thrift/maven/mysql/oracle等以及开源技术，并且熟悉scrum项目管理；
@@ -17,7 +15,8 @@
   3. 跑步
   
   
-欢迎关注我的github
+欢迎关注
+*github地址:*[https://timGRk.github.io](https://timGRk.github.io)
 
 
 
