@@ -2,7 +2,6 @@
 *github地址:*[https://timGRk.github.io](https://timGRk.github.io)
 
 专业技能：
-
 * 互联网技术爱好者,游走于stackoverflow/github/slideshare/infoq等技术社区；
 * 擅长j2ee技术体系（spring/springmvc/struts1-2/resteasy/dubbox/guava/jquery/netty/redis/druid/mongodb/hadoop/rocketmq/kafka/thrift/maven/mysql/oracle等以及开源技术，并且熟悉scrum项目管理；
 * 熟悉并使用docker/jekins/python等；
@@ -11,16 +10,14 @@
 * 喜欢研究全球主流互联网服务端技术架构，涉猎互联网web安全相关问题；
 * 英语听说读写流利，具有全球技术视野。
 
-
 爱好：
-
   1. 打羽毛球
   2. 阅读
   3. 跑步
   
+  
 欢迎关注我的github
 
-![关注](https://avatars3.githubusercontent.com/u/14360795?v=3&s=460)
 
 
 
