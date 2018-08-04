@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# tim_grk简介（markdown语法）
+**个人简介**
 
-You can use the [editor on GitHub](https://github.com/timGRK/timGRk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+个人简介|内容
+------|-----
+ *邮箱*：| ****
+**github地址**:|[https://github.com/timGRK](https://github.com/timGRK)
+*地址*：|深圳市南山区
+专业技能：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* 互联网技术爱好者,游走于stackoverflow/github/slideshare/infoq等技术社区；
+* 擅长j2ee技术体系（spring/springmvc/struts1-2/resteasy/dubbox/guava/jquery/netty/redis/druid/mongodb/hadoop/rocketmq/kafka/thrift/maven/mysql/oracle等以及开源技术，并且熟悉scrum项目管理；
+* 熟悉并使用docker/jekins/python等；
+* 深入了解soa架构思想以及微服务相关设计
+* 擅长使用开发工具tomcat、maven、hudson、eclipse、ngnix、linux、mac等研发工具。
+* 喜欢研究全球主流互联网服务端技术架构，涉猎互联网web安全相关问题；
+* 英语听说读写流利，具有全球技术视野。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+爱好：
 
-```markdown
-Syntax highlighted code block
+  1. 打羽毛球
+  2. 阅读
+  3. 跑步
+  
+>###欢迎关注我的github
 
-# Header 1
-## Header 2
-### Header 3
+![关注](https://avatars3.githubusercontent.com/u/14360795?v=3&s=460)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/timGRK/timGRk.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
